@@ -5,8 +5,12 @@ Principe : on mirroite ce qui est mutable ou ephemere. Ce qui est deja immuable
 n'a pas besoin de copie, et offrir un miroir laisserait croire a une garantie
 qui n'existe pas.
 
-pCloud, dossier « AMP3 Mirror » (compte du bot), et copies locales sous
-/home/hermes/archives/ sur le serveur. Date : 2026-11-09
+Depots dedies, sur les deux forges, branches main et amp3 :
+  GitHub  https://github.com/Hellm4nbot/amp-mirror
+  Codeberg https://codeberg.org/hellm4nbot/amp-mirror
+Copie locale de travail : /home/hermes/archives/ sur le serveur.
+Separe du depot de templates parce qu'AMP clone celui-ci a chaque Fetch : des
+binaires y ralentiraient chaque rafraichissement. Date : 2026-11-09
 
 1. RWMT (rimworld-multiplayer-rwmt) - MIROIRE, priorite haute
 --------------------------------------------------------------

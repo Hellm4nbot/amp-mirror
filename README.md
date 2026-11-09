@@ -59,3 +59,7 @@ sha256` que l'API GitHub publie pour chaque asset, jamais contre un simple calcu
 
 Branches `main` et `amp3` : même contenu, pour rester aligné sur les deux branches du
 dépôt de templates.
+
+Les deux forges servent les mêmes commits : GitHub `Hellm4nbot/amp-mirror`, Codeberg
+`hellm4nbot/amp-mirror`. Le dépôt Codeberg est privé à ce jour, donc seul GitHub est
+téléchargeable sans authentification.
